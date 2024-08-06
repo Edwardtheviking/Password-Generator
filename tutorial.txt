@@ -1,0 +1,7 @@
+How to use:
+The executable file can be found in the main branch. The source code can be found in 'main/source'.
+
+Once you've run the executable, you can enter in '--help' incase you're too lazy to read this.
+
+You can generate a password by entering '--generate <length> <special>'. For <length> you need to input a number which you want the length of your password to be, and it's mandatory. For <special>, you need to enter either 0 or 1, which simply substitutes for False or True.
+The <special> tag allows you to control if you want special characters in your password or not. If you leave out special characters, you may only have numbers, lowercase and uppercase letters in your password. The <special> tag is optional, the preset for it is 0.
